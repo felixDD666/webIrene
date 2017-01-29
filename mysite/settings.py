@@ -125,5 +125,5 @@ STATIC_ROOT = "/var/www/statics"
 
 
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR,'webJP/static'),
+    os.path.join(BASE_DIR,'webIre/static'),
 )
